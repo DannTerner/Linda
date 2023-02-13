@@ -1,0 +1,32 @@
+{
+    "11292" : {
+        "name" : "Яблоко",
+        "cost" : 12,
+        "description" :"Яблоки спелые, очень красивые",
+        "image" : "img/apple.png" 
+    },
+    "11293" : {
+        "name" : "Банан",
+        "cost" : 15,
+        "description" :"Бана дуже свыжий та смачний",
+        "image" : "img/banana.webp" 
+    },
+    "11294" : {
+        "name" : "Вишня",
+        "cost" : 10,
+        "description" :"Спелая вишня",
+        "image" : "img/cherry.jpg" 
+    },
+    "11295" : {
+        "name" : "Клубника",
+        "cost" : 19,
+        "description" :"Клубника спелая, очень красивая",
+        "image" : "img/strawberry-1.jpg" 
+    },
+    "11296" : {
+        "name" : "Помидор",
+        "cost" : 12,
+        "description" :"Помидор натуральный продукт",
+        "image" : "img/tomatojpg" 
+    }
+}
